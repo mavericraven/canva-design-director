@@ -1,7 +1,6 @@
---- 
+---
 name: canva-design-director
-description: Use when the user wants to create, edit, or export designs in Canva — presentations, social media graphics, marketing assets, brand collateral, posters, flyers, slide decks, infographics, or any visual content. Also trigger when the user mentions Canva, "design something", "make a graphic", "create a presentation", "social post template", "brand template", or needs design direction, layout guidance, typography advice, or visual content production. Pairs with the Canva MCP server for direct execution.
-compatibility: requires-canva-mcp-server
+description: Elite Canva MCP skill for professional design creation, presentation design, branding, visual storytelling, and anti-AI-slop workflows using Canva MCP.
 ---
 
 # Canva Design Director
